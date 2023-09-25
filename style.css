@@ -67,8 +67,7 @@ h5, span{
     transform:rotate(25.70deg);
 }
 .bjir{
-    position: fixed;
-    top: 100vh;
+    opacity: 0;
 }
 
 .hidden{
