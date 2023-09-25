@@ -46,7 +46,7 @@ function btn() {
     audio.setAttribute("src", "media/rokongsojo.mp3");
     audio.play();
   }
-  if (N + A + Ro == 3) {
+  if (N + A + Ro == 300) {
     title.innerText = "super duper Doggo";
   }
 }
