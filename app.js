@@ -12,11 +12,11 @@ function btn () {
     var audio = document.createElement('audio')
         const bark = Math.random()*33
         count +=1
-        R.src='saga-2.png'
-        L.src='saga-3.png'
+        R.src='media/saga-2.png'
+        L.src='media/saga-3.png'
         setTimeout(function(){
-         R.src ='saga-1.png'
-         L.src ='saga-4.png'
+         R.src ='media/saga-1.png'
+         L.src ='media/saga-4.png'
         },200)
     if (count>5){
         R.classList.toggle('hidden')
