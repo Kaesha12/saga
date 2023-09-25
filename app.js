@@ -50,3 +50,9 @@ function btn() {
     title.innerText = "super duper Doggo";
   }
 }
+window.addEventListener("keypress", function (event) {
+  console.log(event.key);
+  if (event.key == "Enter" || event.key == " ") {
+    btn();
+  }
+});
