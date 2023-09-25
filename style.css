@@ -9,10 +9,11 @@
     line-height: 20px;
     letter-spacing: 0.6px;
     font-weight: 100;
+    overflow: hidden;
 }
 body{
     background: #6b4eaa;
-    overflow: hidden;
+ 
 }
 .header{
     background: #2b1f44;
