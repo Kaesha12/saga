@@ -34,6 +34,10 @@ button{
     font-size: 20px;
     padding: 10px;
 }
+button:active{
+    transform: translateY(2px);
+    background: #1b132b;
+}
 .footer{
     margin-top: 15vh;
     padding: 40px;
