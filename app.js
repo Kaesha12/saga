@@ -23,7 +23,7 @@ function btn() {
   setTimeout(function () {
     R.src = "media/saga-1.png";
     L.src = "media/saga-4.png";
-  }, 1000);
+  }, 300);
   if (count > 5) {
     R.classList.toggle("hidden");
     L.classList.toggle("hidden");
