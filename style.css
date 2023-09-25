@@ -12,6 +12,7 @@
 }
 body{
     background: #6b4eaa;
+    overflow: hidden;
 }
 .header{
     background: #2b1f44;
