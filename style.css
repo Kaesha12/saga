@@ -13,7 +13,6 @@
 }
 body{
     background: #6b4eaa;
- 
 }
 .header{
     background: #2b1f44;
@@ -22,7 +21,6 @@ body{
 }
 .counter{
     margin-top: 25vh;
-    width: 90%;
     position: absolute;
     transform: translate(50%);
     right: 50%;
@@ -44,6 +42,7 @@ button{
     position: absolute;
     top: 40vh;
     width: 100%;
+
 }
 h5, span{
     font-size: 14px;
